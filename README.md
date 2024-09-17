@@ -37,5 +37,5 @@
 <div>
     <a href="https://github.com/LuizFernandoFerri"></a>
     <img width="43%" src="https://github-readme-stats.vercel.app/api?username=luizfernandoferri&show_icons=true&theme=dracula">
-    <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizfernandoferri&layout=compact&langs_count=16&theme=dracula"/> 
+    <img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizfernandoferri&layout=compact&langs_count=16&theme=dracula"/> 
   </div>
