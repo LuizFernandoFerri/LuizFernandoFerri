@@ -30,6 +30,8 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=)
 ![.C#](https://img.shields.io/badge/C%23-239120?style=flat&logo)
+![.Mysql]([https://img.shields.io/badge/C%23-239120?style=flat&logo](https://shields.io/badge/MySQL-lightgrey?logo=mysql&style=plastic&logoColor=white&labelColor=blue))
+
 
 
 <h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
